@@ -1,5 +1,5 @@
-favorite movie Wolf of Wall Street
-favorite TV series Vikings
-favorite food Borscht
-favorite time of year Spring
-country you would like to visit Japan
+name Full name
+surname Full name
+age 33
+number of pets not yet
+future desired salary 163000$ in the year
