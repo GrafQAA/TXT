@@ -1,1 +1,25 @@
+Bug_id 1
 
+Title:   Кнопка "Оформить заказ" не реагирует на клик
+
+Severity:   Blocker
+
+Priority:   ASAP-as fast as possible-как можно быстрее
+
+Environment: Windows 10 Pro v:20H2. Google Chrome V: 97.0.4692.71 (Official build), (64 bit)
+
+Precondition:
+	1) Открыть сайт https://... 
+	2) Открыть каталог
+
+Steps to reproduce(STR):
+	1. Добавить товар в корзину.
+	2. Зайти в корзину.
+	3. Нажать на кнопку "Оформить заказ"
+	4. Нажать на кнопку "Оформить заказ"
+
+Actual result(AR):   Кнопка "Оформить заказ" не реагирует на клик
+
+Expected result(ER):   Пользователь перенаправляется на страницу оплаты
+
+Attachments:   Video link
